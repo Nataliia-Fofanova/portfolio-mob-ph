@@ -1,0 +1,63 @@
+#map {
+    height: 200px;
+    width: 420px;
+}
+
+.thumbnail {text-align: center;
+}
+
+.col-md-6.col-md-offset-3 h1{ 
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+
+.navbar.navbar-inverse{
+
+    background-color: gray;
+}
+.head .btn{
+    width: 210px;
+    height: 50px;
+    text-align: center;
+    text-decoration-color: aliceblue;
+    
+}
+ .controls{
+    margin-bottom: auto;
+}
+.os{
+
+/*    background-color: #B2E2FA;*/
+     background: linear-gradient(to top, #9EDCF9, #C2E7FB);
+}
+.footer {
+    background-color: aliceblue;
+}
+.about {
+    background-color: lightgray;
+}
+h3{
+    color: dodgerblue;
+}
+p{
+    padding: 10px 0;
+}
+.gallery_items_3{
+    text-align: right;
+
+}
+}
+ h1{
+color: #ffffff;
+    
+}
+.head{
+  
+    margin: 100px auto;
+}
+progressbar{
+    color: dimgrey;
+    text-align: left;
+}
